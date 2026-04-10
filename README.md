@@ -26,7 +26,7 @@ Use branch `main` unless your team points you at another branch.
 
 ### Download archive (optional)
 
-If a [GitHub Release](https://github.com/AEAbreu-hub/ffs-mogrt-package/releases) publishes a `.zip`, use that release page for a single download instead of cloning. When present, the README for that release will list contents or checksums for verification.
+For a single download without cloning, use **[Release v1.0.0](https://github.com/AEAbreu-hub/ffs-mogrt-package/releases/tag/v1.0.0)** and the attached `WKND-Product-Showcase-v1.0.0.zip` (contents match the repository tree at that tag). See [all releases](https://github.com/AEAbreu-hub/ffs-mogrt-package/releases) for newer drops.
 
 ## Access
 
